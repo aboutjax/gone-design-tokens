@@ -1,0 +1,16 @@
+{
+  "name": "gone-design-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-design-tokens": "node build.js"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^0.11.0",
+    "style-dictionary": "^3.8.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
