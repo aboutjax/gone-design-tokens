@@ -2,7 +2,7 @@
   "color": {
     "background": {
       "default": {
-        "value": "{color.Slate.50}",
+        "value": "{color.Gray.50}",
         "type": "color"
       }
     },
