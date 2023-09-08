@@ -2,7 +2,7 @@
   "color": {
     "background": {
       "default": {
-        "value": "{color.Neutral.50}",
+        "value": "{color.slate.50}",
         "type": "color"
       }
     },
