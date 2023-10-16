@@ -124,6 +124,32 @@
         }
       }
     },
+    "danger": {
+      "background": {
+        "default": {
+          "value": "{color.Red.200}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.Red.100}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{color.Red.300}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "primary": {
+          "value": "{color.Red.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba( {color.danger.content.primary} , 0.5)",
+          "type": "color"
+        }
+      }
+    },
     "link": {
       "default": {
         "value": "{color.Lime.500}",

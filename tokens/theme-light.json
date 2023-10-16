@@ -137,6 +137,32 @@
         "value": "{color.Lime.700}",
         "type": "color"
       }
+    },
+    "danger": {
+      "background": {
+        "default": {
+          "value": "{color.Red.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.Red.600}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{color.Red.800}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "primary": {
+          "value": "{color.Red.200}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba( {color.danger.content.primary} , 0.5)",
+          "type": "color"
+        }
+      }
     }
   }
 }
