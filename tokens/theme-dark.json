@@ -127,11 +127,11 @@
     "danger": {
       "background": {
         "default": {
-          "value": "{color.Red.400}",
+          "value": "{color.Red.300}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.Red.300}",
+          "value": "{color.Red.200}",
           "type": "color"
         },
         "pressed": {
