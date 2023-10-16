@@ -1,9 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Fri, 08 Sep 2023 06:06:01 GMT
+ * Generated on Mon, 16 Oct 2023 01:36:06 GMT
  */
 
 :root {
+  --colorComponentButtonPrimaryBackground: #84cc16;
+  --colorComponentButtonPrimaryLabel: #1a2e05;
+  --colorComponentButtonSecondaryBackground: #404040;
+  --colorComponentButtonSecondaryLabel: #e5e5e5;
   --colorBackgroundDefault: #000000;
   --colorContentPrimary: #fafafa;
   --colorContentSecondary: rgba(250, 250, 250, 0.5);
@@ -27,8 +31,4 @@
   --colorLinkDefault: #84cc16;
   --colorLinkHover: #bef264;
   --colorLinkPressed: #4d7c0f;
-  --componentButtonPrimaryBackground: #84cc16;
-  --componentButtonPrimaryLabel: #1a2e05;
-  --componentButtonSecondaryBackground: #404040;
-  --componentButtonSecondaryLabel: #e5e5e5;
 }

@@ -1,10 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Fri, 08 Sep 2023 06:06:01 GMT
+ * Generated on Mon, 16 Oct 2023 01:36:06 GMT
  */
 
 :root {
-  --colorBackgroundDefault: #fafafa;
+  --colorComponentButtonPrimaryBackground: #365314;
+  --colorComponentButtonPrimaryLabel: #d9f99d;
+  --colorComponentButtonSecondaryBackground: #e5e5e5;
+  --colorComponentButtonSecondaryLabel: #171717;
+  --colorBackgroundDefault: #f3f4f6;
   --colorContentPrimary: #171717;
   --colorContentSecondary: rgba(23, 23, 23, 0.6);
   --colorContentDisabled: rgba(23, 23, 23, 0.25);
@@ -27,8 +31,4 @@
   --colorLinkDefault: #65a30d;
   --colorLinkHover: #bef264;
   --colorLinkPressed: #4d7c0f;
-  --componentButtonPrimaryBackground: #365314;
-  --componentButtonPrimaryLabel: #d9f99d;
-  --componentButtonSecondaryBackground: #e5e5e5;
-  --componentButtonSecondaryLabel: #171717;
 }
