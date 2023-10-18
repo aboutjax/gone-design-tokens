@@ -189,6 +189,32 @@
           "type": "color"
         }
       }
+    },
+    "success": {
+      "background": {
+        "default": {
+          "value": "{color.Green.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.Green.600}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{color.Green.800}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "primary": {
+          "value": "{color.Green.200}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba( {color.success.content.primary} , 0.5)",
+          "type": "color"
+        }
+      }
     }
   }
 }
