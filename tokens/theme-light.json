@@ -163,6 +163,32 @@
           "type": "color"
         }
       }
+    },
+    "warning": {
+      "background": {
+        "default": {
+          "value": "{color.Amber.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.Amber.600}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{color.Amber.800}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "primary": {
+          "value": "{color.Amber.200}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba( {color.warning.content.primary} , 0.5)",
+          "type": "color"
+        }
+      }
     }
   }
 }
