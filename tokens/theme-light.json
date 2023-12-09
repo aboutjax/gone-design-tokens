@@ -101,7 +101,7 @@
     "secondary": {
       "background": {
         "default": {
-          "value": "rgb(255, 255, 255)",
+          "value": "rgb(251, 246, 238)",
           "type": "color"
         },
         "hover": {
