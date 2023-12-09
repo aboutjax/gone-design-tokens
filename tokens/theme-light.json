@@ -89,7 +89,7 @@
       },
       "content": {
         "primary": {
-          "value": "rgb(251, 246, 238)",
+          "value": "rgb(0, 0, 0)",
           "type": "color"
         },
         "secondary": {
