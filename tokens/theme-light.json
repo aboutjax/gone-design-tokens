@@ -93,7 +93,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "rgba( {color.primary.content}, 0.6)",
+          "value": "rgba({color.primary.content.primary}, 0.6)",
           "type": "color"
         }
       }
