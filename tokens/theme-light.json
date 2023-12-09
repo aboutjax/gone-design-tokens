@@ -45,15 +45,15 @@
     "primary": {
       "background": {
         "default": {
-          "value": "{color.Brand.500}",
+          "value": "{color.Brand.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.Brand.400}",
+          "value": "{color.Brand.600}",
           "type": "color"
         },
         "active": {
-          "value": "{color.Brand.700}",
+          "value": "{color.Brand.500}",
           "type": "color"
         }
       },
