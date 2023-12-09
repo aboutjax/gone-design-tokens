@@ -56,7 +56,7 @@
     },
     "layer": {
       "01": {
-        "value": "{color.Neutral.100}",
+        "value": "{color.White}",
         "type": "color"
       },
       "02": {
