@@ -75,7 +75,7 @@
     "primary": {
       "background": {
         "default": {
-          "value": "{color.Lime.800}",
+          "value": "rgba(89, 137, 27, 1)",
           "type": "color"
         },
         "hover": {
@@ -89,11 +89,11 @@
       },
       "content": {
         "primary": {
-          "value": "{color.Lime.200}",
+          "value": "rgba(217, 249, 157, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "rgba( {color.Lime.50}, 0.6)",
+          "value": "rgba( {color.primary.content}, 0.6)",
           "type": "color"
         }
       }
