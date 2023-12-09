@@ -71,15 +71,15 @@
     "secondary": {
       "background": {
         "default": {
-          "value": "{color.Brand.200}",
+          "value": "{color.Neutral.200}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.Brand.100}",
+          "value": "{color.Neutral.100}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.Brand.300}",
+          "value": "{color.Neutral.300}",
           "type": "color"
         }
       },
