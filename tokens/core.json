@@ -1263,6 +1263,63 @@
       "description": "",
       "value": "#ffffff",
       "type": "color"
+    },
+    "Brand": {
+      "50": {
+        "description": "",
+        "value": "#f0f8ed",
+        "type": "color"
+      },
+      "100": {
+        "description": "",
+        "value": "#d1eac9",
+        "type": "color"
+      },
+      "200": {
+        "description": "",
+        "value": "#b3dca4",
+        "type": "color"
+      },
+      "300": {
+        "description": "",
+        "value": "#95cd7f",
+        "type": "color"
+      },
+      "400": {
+        "description": "",
+        "value": "#75bf58",
+        "type": "color"
+      },
+      "500": {
+        "description": "",
+        "value": "#65b741",
+        "type": "color"
+      },
+      "600": {
+        "description": "",
+        "value": "#579f37",
+        "type": "color"
+      },
+      "700": {
+        "description": "",
+        "value": "#3c7025",
+        "type": "color"
+      },
+      "800": {
+        "description": "",
+        "value": "#224513",
+        "type": "color"
+      },
+      "900": {
+        "description": "",
+        "value": "#0c1e05",
+        "type": "color"
+      },
+      "950": {
+        "description": "",
+        "value": "#000200",
+        "type": "color"
+      }
     }
   }
 }
