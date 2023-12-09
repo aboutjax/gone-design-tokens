@@ -26,7 +26,7 @@
     },
     "background": {
       "default": {
-        "value": "{color.Gray.100}",
+        "value": "rgb(251, 246, 238)",
         "type": "color"
       }
     },
@@ -56,11 +56,11 @@
     },
     "layer": {
       "01": {
-        "value": "{color.White}",
+        "value": "{color.Neutral.100}",
         "type": "color"
       },
       "02": {
-        "value": "{color.Neutral.100}",
+        "value": "rgb(251, 246, 238)",
         "type": "color"
       },
       "03": {
@@ -68,14 +68,14 @@
         "type": "color"
       },
       "04": {
-        "value": "{color.Neutral.100}",
+        "value": "rgb(251, 246, 238)",
         "type": "color"
       }
     },
     "primary": {
       "background": {
         "default": {
-          "value": "rgba(89, 137, 27, 1)",
+          "value": "rgb(101, 183, 65)",
           "type": "color"
         },
         "hover": {
@@ -89,7 +89,7 @@
       },
       "content": {
         "primary": {
-          "value": "rgba(217, 249, 157, 1)",
+          "value": "rgb(251, 246, 238)",
           "type": "color"
         },
         "secondary": {
