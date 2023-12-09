@@ -54,7 +54,7 @@
         "type": "color"
       }
     },
-    "surface": {
+    "layer": {
       "01": {
         "value": "{color.White}",
         "type": "color"
