@@ -26,7 +26,7 @@
     },
     "layer": {
       "01": {
-        "value": "{color.Brand.50}",
+        "value": "rgb(245, 246, 243)",
         "type": "color"
       },
       "02": {
@@ -34,7 +34,7 @@
         "type": "color"
       },
       "03": {
-        "value": "{color.Brand.50}",
+        "value": "rgb(245, 246, 243)",
         "type": "color"
       },
       "04": {
