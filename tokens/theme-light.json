@@ -94,20 +94,6 @@
         }
       }
     },
-    "link": {
-      "default": {
-        "value": "{color.Brand.600}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{color.Brand.300}",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "{color.Brand.700}",
-        "type": "color"
-      }
-    },
     "danger": {
       "background": {
         "default": {
