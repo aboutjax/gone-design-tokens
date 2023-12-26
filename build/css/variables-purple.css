@@ -1,0 +1,18 @@
+.theme-purple {
+          --color-layer-01: 0 0 0;
+  --color-layer-02: 59 7 100;
+  --color-layer-03: 88 28 135;
+  --color-content-primary: 250 245 255;
+  --color-content-secondary: 250 245 255;
+  --color-divider-default: 0 0 0;
+  --color-primary-background-default: 255 255 255;
+  --color-primary-content-primary: 59 7 100;
+  --color-secondary-background-default: 147 51 234;
+  --color-secondary-content-primary: 255 255 255;
+  --color-danger-background-default: 252 165 165;
+  --color-danger-content-primary: 127 29 29;
+  --color-warning-background-default: 252 211 77;
+  --color-warning-content-primary: 120 53 15;
+  --color-success-background-default: 134 239 172;
+  --color-success-content-primary: 20 83 45;
+      }

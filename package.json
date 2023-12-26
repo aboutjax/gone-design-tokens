@@ -2,15 +2,31 @@
   "name": "gone-design-tokens",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-design-tokens": "node build.js"
+    "build-design-tokens": "node build.js",
+    "build-dark-tokens": "token-transformer tokens/tokens.json transformed/dark-tokens.json core,theme-dark core",
+    "build-light-tokens": "token-transformer tokens/tokens.json transformed/light-tokens.json core,theme-light core --resolveReferences=true",
+    "build-red-tokens": "token-transformer tokens/tokens.json transformed/red-tokens.json core,theme-red core",
+    "build-orange-tokens": "token-transformer tokens/tokens.json transformed/orange-tokens.json core,theme-orange core",
+    "build-yellow-tokens": "token-transformer tokens/tokens.json transformed/yellow-tokens.json core,theme-yellow core",
+    "build-green-tokens": "token-transformer tokens/tokens.json transformed/green-tokens.json core,theme-green core",
+    "build-blue-tokens": "token-transformer tokens/tokens.json transformed/blue-tokens.json core,theme-blue core",
+    "build-navy-tokens": "token-transformer tokens/tokens.json transformed/navy-tokens.json core,theme-navy core",
+    "build-purple-tokens": "token-transformer tokens/tokens.json transformed/purple-tokens.json core,theme-purple core",
+    "build-all-tokens": "npm run build-dark-tokens && npm run build-light-tokens && npm run build-red-tokens && npm run build-orange-tokens && npm run build-yellow-tokens && npm run build-green-tokens && npm run build-blue-tokens && npm run build-navy-tokens && npm run build-purple-tokens"
   },
   "devDependencies": {
-    "@tokens-studio/sd-transforms": "^0.11.0",
+    "@tokens-studio/sd-transforms": "^0.11.10",
     "style-dictionary": "^3.8.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "colortranslator": "^4.1.0",
+    "token-transformer": "^0.0.33"
+  }
 }
